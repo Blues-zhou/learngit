@@ -5,4 +5,4 @@ this gonna be new term.
 git stack change.
 git tacks changes of files.
 Creating a new branch is quick and simple.
-let's do little change.
+this is a new change.
